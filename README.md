@@ -1,4 +1,4 @@
-### Employee Performance & Salary Analysis  
+### ]Employee Performance & Salary Analysis](https://github.com/Mishka2596/SQL_employee-performance-salary-analysis)  
 *Focus: HR Analytics & Workforce Reporting*
 
 - **The Problem:** Employee salary and performance data lacked structured reporting and meaningful insights for workforce decision-making.
